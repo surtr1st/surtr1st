@@ -8,9 +8,9 @@
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=surtr1st&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=surtr1st&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=surtr1st&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=surtr1st&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <br>
 
