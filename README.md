@@ -1,6 +1,5 @@
-<div align="center">
-  <img height="150" src=""  />
-</div>
+
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -15,7 +14,9 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<div align="center">
+  <img src="/codeimage-snippet_x2.png"  />
+</div>
 
 ###
 
