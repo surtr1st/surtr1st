@@ -19,7 +19,7 @@
 ###
 
 <p>
-Currently, I am an independent software developer specializing in both front-end and back-end development, although my expertise lies primarily in back-end development. I adore innovative work and am passionate about developing software that could possibly simplifies processes people's workflow. I am also a continuous learner who is naturally curious, learning many new things is like my hobby.
+Currently, I am an student alongside being an independent software developer specializing in both front-end and back-end development, although my expertise lies primarily in back-end development. I adore innovative work and am passionate about developing software that could possibly simplifies processes people's workflow. I am also a continuous learner who is naturally curious, learning many new things is like my hobby.
 </p>
 
 ###
@@ -63,9 +63,8 @@ Currently, I am an independent software developer specializing in both front-end
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
+  <img width="15" />
 </div>
 
 ###
