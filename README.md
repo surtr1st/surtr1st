@@ -14,17 +14,13 @@
 
 ###
 
-<div align="center">
-  <img src="/codeimage-snippet_x2.png"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<h4 align="center">Currently, I am an independent software developer specializing in both front-end and back-end development, although my expertise lies primarily in back-end development. I adore innovative work and am passionate about developing software that could possibly simplifies processes people's workflow. I am also a continuous learner who is naturally curious, learning many new things is like my hobby.</h4>
+<p>
+Currently, I am an independent software developer specializing in both front-end and back-end development, although my expertise lies primarily in back-end development. I adore innovative work and am passionate about developing software that could possibly simplifies processes people's workflow. I am also a continuous learner who is naturally curious, learning many new things is like my hobby.
+</p>
 
 ###
 
@@ -42,6 +38,8 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=tauri" height="30" alt="tauri logo"  />
   <img width="15" />
